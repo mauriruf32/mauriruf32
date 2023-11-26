@@ -58,7 +58,7 @@ Siempre con el interes de crear codigos utiles para todos aquellos que lo necesi
 
 ## Contacto
 
-¡Estoy siempre abierto a nuevas oportunidades y colaboraciones! Puedes contactarme a través de [LinkedIn]www.linkedin.com/in/mauricio-fabro o [Twitter](enlace-a-twitter).
+¡Estoy siempre abierto a nuevas oportunidades y colaboraciones! Puedes contactarme a través de [LinkedIn](www.linkedin.com/in/mauricio-fabro) o [Twitter](enlace-a-twitter).
 
 ¡Gracias por visitar mi perfil!
 
