@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **mauriruf32/mauriruf32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,8 +20,8 @@ Me apasiona la programacion y eso me motiva a aprender y explorar nuevas tecnolo
 
 ## Sobre mí
 
-- 🌐 Sitio web: [Tu Sitio Web](tu-sitio-web.com)
-- 📫 Correo electrónico: [tucorreo@gmail.com](mailto:tucorreo@gmail.com)
+- 🌐 Sitio web: [Tu Sitio Web]ma
+- 📫 Correo electrónico: mauriruffini32@gmail.com [tucorreo@gmail.com](mailto:tucorreo@gmail.com)
 
 ## Habilidades
 
