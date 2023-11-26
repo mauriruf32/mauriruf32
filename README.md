@@ -42,7 +42,7 @@ Siempre con el interes de crear codigos utiles para todos aquellos que lo necesi
 
 ## Proyectos Destacados
 
-- [Proyecto 1]([enlace-al-proyecto1](https://github.com/mauriruf32/CountriesAPP)): Breve descripción del proyecto.
+- [Proyecto 1](https://github.com/mauriruf32/CountriesAPP): Breve descripción del proyecto.
 - [Proyecto 2]([enlace-al-proyecto2](https://github.com/PrintCraft3D/PrintCraft3DFront)): Breve descripción del proyecto.
 
 ## Estadísticas de GitHub
