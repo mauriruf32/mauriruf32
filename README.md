@@ -20,13 +20,25 @@ Me apasiona la programacion y eso me motiva a aprender y explorar nuevas tecnolo
 
 ## Sobre mí
 
-- 🌐 Sitio web: [Tu Sitio Web]ma
-- 📫 Correo electrónico: mauriruffini32@gmail.com [tucorreo@gmail.com](mailto:tucorreo@gmail.com)
+Actualmente, estoy dando mis primeros pasos como Desarrollador Full-Stack en el mundo del desarrollo web.
+Me considero un solucionador de problemas creativo, siempre en busca de alternativas innovadoras para enfrentar los desafíos que surgen en el camino.
+
+## Objetivos Profesionales
+
+Me encuentro en la busqueda de nuevos desafios y experiencias.
+Siempre con el interes de crear codigos utiles para todos aquellos que lo necesiten, ademas de practicos y funcionales para la resolucion de problemas.
 
 ## Habilidades
 
-- 💻  JavaScript, HTML, CSS, Redux, React, Node JS, SQL, Sequelize, among others.
-- 🚀 [Otras habilidades]
+- 💻 JavaScript
+- 💻 HTML
+- 💻 CSS
+- 💻 Redux
+- 💻 React
+- 💻 Node.JS
+- 💻 SQL
+- 💻 Sequelize
+- 🚀 entre otras..
 
 ## Proyectos Destacados
 
@@ -46,7 +58,7 @@ Me apasiona la programacion y eso me motiva a aprender y explorar nuevas tecnolo
 
 ## Contacto
 
-¡Estoy siempre abierto a nuevas oportunidades y colaboraciones! Puedes contactarme a través de [LinkedIn](enlace-a-linkedin) o [Twitter](enlace-a-twitter).
+¡Estoy siempre abierto a nuevas oportunidades y colaboraciones! Puedes contactarme a través de [LinkedIn](www.linkedin.com/in/mauricio-fabro) o [Twitter](enlace-a-twitter).
 
 ¡Gracias por visitar mi perfil!
 
