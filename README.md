@@ -58,7 +58,7 @@ Siempre con el interes de crear codigos utiles para todos aquellos que lo necesi
 
 ## Contacto
 
-Puedes contactarme a través de [LinkedIn](https://www.linkedin.com/in/mauricio-fabro/) o mi orreo electrónico [mauriruffini32@gmail.com](mauriruffini32@gmail.com) 📫
+Puedes contactarme a través de [LinkedIn](https://www.linkedin.com/in/mauricio-fabro/) o mi correo electrónico (mauriruffini32@gmail.com) 📫
 
 ¡Estoy siempre abierto a nuevas oportunidades y colaboraciones! 
 ¡Gracias por visitar mi perfil!
