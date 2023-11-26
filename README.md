@@ -61,7 +61,7 @@ Se usaron bibliotecas e estilo como bootstrap, react-bootstrap y un poco de CSS.
 
 ## Contacto
 
-Puedes contactarme a través de [LinkedIn](https://www.linkedin.com/in/mauricio-fabro/) o mi correo electrónico (mauriruffini32@gmail.com) 📫
+Puedes contactarme a través de [LinkedIn](https://www.linkedin.com/in/mauricio-fabro/) o mi correo electrónico (mauriruffini32@gmail.com) 📫 [mauriruffini32@gmail.com](mailto:mauriruffini32@gmail.com)
 
 ¡Estoy siempre abierto a nuevas oportunidades y colaboraciones! 
 ¡Gracias por visitar mi perfil!
