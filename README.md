@@ -42,8 +42,8 @@ Siempre con el interes de crear codigos utiles para todos aquellos que lo necesi
 
 ## Proyectos Destacados
 
-- [Proyecto 1](enlace-al-proyecto1): Breve descripción del proyecto.
-- [Proyecto 2](enlace-al-proyecto2): Breve descripción del proyecto.
+- [Proyecto 1]([enlace-al-proyecto1](https://github.com/mauriruf32/CountriesAPP)): Breve descripción del proyecto.
+- [Proyecto 2]([enlace-al-proyecto2](https://github.com/PrintCraft3D/PrintCraft3DFront)): Breve descripción del proyecto.
 
 ## Estadísticas de GitHub
 
@@ -58,8 +58,9 @@ Siempre con el interes de crear codigos utiles para todos aquellos que lo necesi
 
 ## Contacto
 
-¡Estoy siempre abierto a nuevas oportunidades y colaboraciones! Puedes contactarme a través de [LinkedIn](https://www.linkedin.com/in/mauricio-fabro/) o [Twitter](enlace-a-twitter).
+Puedes contactarme a través de [LinkedIn](https://www.linkedin.com/in/mauricio-fabro/) o mi orreo electrónico [tucorreo@gmail.com](mauriruffini32@gmail.com) 📫
 
+¡Estoy siempre abierto a nuevas oportunidades y colaboraciones! 
 ¡Gracias por visitar mi perfil!
 
 
