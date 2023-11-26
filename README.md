@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ¡Hola! 👋 Soy [Tu Nombre]
+# ¡Hola! 👋 Mi nombre es Mauricio Fabro
 
-Bienvenido a mi perfil de GitHub. Soy [tu profesión o título] con experiencia en [tus habilidades]. Me apasiona [tus intereses] y siempre estoy buscando aprender nuevas cosas.
+Bienvenido a mi perfil de GitHub. Soy Desarrollador **Web Full Stack**.
+Me apasiona la programacion y eso me motiva a aprender y explorar nuevas tecnologías.
 
 ## Sobre mí
 
@@ -26,7 +27,7 @@ Bienvenido a mi perfil de GitHub. Soy [tu profesión o título] con experiencia 
 
 ## Habilidades
 
-- 💻 [Lista de habilidades]
+- 💻  JavaScript, HTML, CSS, Redux, React, Node JS, SQL, Sequelize, among others.
 - 🚀 [Otras habilidades]
 
 ## Proyectos Destacados
