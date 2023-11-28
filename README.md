@@ -43,14 +43,14 @@ Siempre con el interes de crear codigos utiles para todos aquellos que lo necesi
 ## Proyectos Destacados
 
 - [Proyecto 1](https://github.com/mauriruf32/CountriesAPP): 
-Proyecto Individual - Countries Henry
+Proyecto Individual Henry - Countries
 
 La aplicación permite a los usuarios buscar, visualizar y filtrar información detallada sobre países a travez de cards o tarjetas. Además, se pueden crear actividades turísticas personalizadas.
 El proyecto tiene como objetivo principal aplicar y conectar los conceptos aprendidos durante el bootcamp en Henry, aprender mejores prácticas de desarrollo, y practicar el uso de tecnologías clave como React y Node.
 Desde la aplicación se puede filtrar por continente o/y por actividades turisticas, también ordenar los resultados de la busqueda de mayor a menor (y viceversa) por cantidad de habitantes y también alfabéticamente.
 
 - [Proyecto 2](https://github.com/PrintCraft3D/PrintCraft3DFront): 
-Proyecto Final - PrintCraft3D
+Proyecto Final Henry - PrintCraft3D
 
 Para este proyecto (grupal) nos propusimos realizar una ecommerce para la venta de articulos impresos con impresoras 3D.
 Se implementaron tecnologías como JavaScript, React.js, Redux.js, Node.js, CSS, etc. La pagina permite al cliente registrarse, comprar los artículos e incluso reseñarlos con un puntuación y un comentario. Permite al administrador de la pagina publicar los artículos, llevar un conteo de stock, hacer un seguimiento de las ventas, contando además con borrado lógico, ordenamiento y filtrado dinámico.
